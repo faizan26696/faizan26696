@@ -1,6 +1,6 @@
   
 <h1 align="center">Hi 👋, I'm Mohammad Faizan</h1>
-<h3 align="center">A JS developer passionate about creating elegant and efficient code. Experienced in React.js, Node.js, and MongoDB. Lifelong learner and believer in open-source collaboration.</h3>
+<h3 align="center">A JS developer passionate about creating elegant and efficient code. Experienced in React.js, Redux Thunk/Saga, Rtk query, React Native, Node.js, MongoDB, React Navigation, Axios, React Native Paper, React Native Vector Icons, Firebase, Expo CLI, Git and Jira . Lifelong learner and believer in open-source collaboration.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faizan26696&label=Profile%20views&color=0e75b6&style=flat" alt="faizan26696" /> </p>
